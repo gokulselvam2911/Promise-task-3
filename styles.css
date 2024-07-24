@@ -1,0 +1,11 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#advice-container {
+    margin-top: 20px;
+}
+
+.advice-card {
+    margin-top: 10px;
+}
