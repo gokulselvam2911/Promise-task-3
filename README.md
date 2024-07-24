@@ -1,6 +1,6 @@
 # Promise-task-3
 # Advice App
-
+Web Application depolyed on netlify [Advice App](https://randomfreeadvice.netlify.app/)
 ## Overview
 
 The Advice App is a web application that provides users with random advice or allows them to search for advice based on specific words using the Advice Slip API. The application is built with HTML, CSS, and JavaScript, and it uses Bootstrap for styling.
